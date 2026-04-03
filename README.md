@@ -70,5 +70,6 @@ We evaluate the model using **Root Mean Square Error (RMSE)** and visualize the 
 git clone https://github.com/Misbah374/execution-time-prediction.git
 cd execution-time-prediction
 pip install numpy pandas matplotlib
+python data_generator.py
 jupyter notebook
 ```
